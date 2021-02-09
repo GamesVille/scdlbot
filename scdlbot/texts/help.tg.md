@@ -20,8 +20,4 @@ _Send or forward_ a text message containing links and I will:
 `https://shitmat.bandcamp.com/track/amen-babylon-2016-mix`
 `youtu.be/Mdzy5RKn434`
 
-*Developed By 𝗙𝗟𝗜𝗫 𝗕𝗢𝗧𝗦*:
-
-[📢 CHANNEL](https://t.me/FlixBots) | [⚠️ SOURCE CODE](https://t.me/NoSourceCode)
-
-[🧕 DEVELOPER](https://t.me/Iggie) | [👤 SUPPORT BOT](https://t.me/FlixHelpBot)
+*Developed By 𝗙𝗟𝗜𝗫 𝗕𝗢𝗧𝗦*
