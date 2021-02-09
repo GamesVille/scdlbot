@@ -16,18 +16,12 @@ _Send or forward_ a text message containing links and I will:
 *Mixcloud, Vimeo and* [almost everything from this list](https://ytdl-org.github.io/youtube-dl/supportedsites.html), but no VK music
 
 *Example message:*
-`Hey, check this out! https://m.soundcloud.com/falling-ethics/jk-flesh-static-demon-fexelvn004 and also https://shitmat.bandcamp.com/track/amen-babylon-2016-mix and youtu.be/Mdzy5RKn434`
+`Hey, check this out! https://m.soundcloud.com/falling-ethics/jk-flesh-static-demon-fexelvn004`
+`https://shitmat.bandcamp.com/track/amen-babylon-2016-mix`
+`youtu.be/Mdzy5RKn434`
 
-👨🏻‍💻 *Developed By 𝗙𝗟𝗜𝗫 𝗕𝗢𝗧𝗦*:
+*Developed By 𝗙𝗟𝗜𝗫 𝗕𝗢𝗧𝗦*:
 
 [📢 CHANNEL](https://t.me/FlixBots) | [⚠️ SOURCE CODE](https://t.me/NoSourceCode)
 
 [🧕 DEVELOPER](https://t.me/Iggie) | [👤 SUPPORT BOT](https://t.me/FlixHelpBot)
-
-💵 Support development:
-
-[PayPal](http://paypal.me/premiumbarn) | [Ko-fi](https://ko-fi.com/gpchelkin) | [Tinkoff](https://www.tinkoff.ru/sl/Acd7Jamf4YM) | [Yandex.Money](http://money.yandex.ru/to/41001421333857/200)
-
-👩🏻‍🎨 Logo By `@google` | [🖼️ GOOGLE](https://google.com)
-
-🎶 Inspired by `@electrocircle` | [⚫ CHANNEL](https://t.me/Eklight)
