@@ -249,7 +249,7 @@ class ScdlBot:
                             InlineKeyboardButton("👤 SUPPORT BOT", url="https://t.me/FlixHelpBot")
                         ]
                     ]
-                )
+                ),
                 disable_web_page_preview=True
             )
 
