@@ -245,8 +245,10 @@ class ScdlBot:
                             InlineKeyboardButton("🧕 DEVELOPER", url="https://t.me/Iggie")
                         ],
                         [
-                            InlineKeyboardButton("⚠️ SOURCE CODE", url="https://t.me/NoSourceCode"),
-                            InlineKeyboardButton("👤 SUPPORT BOT", url="https://t.me/FlixHelpBot")
+                            InlineKeyboardButton("⚠️ SOURCE CODE ⚠️", url="https://t.me/NoSourceCode")
+                        ],
+                        [
+                            InlineKeyboardButton("👤 SUPPORT BOT 👤", url="https://t.me/FlixHelpBot")
                         ]
                     ]
                 ),
