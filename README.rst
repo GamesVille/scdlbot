@@ -190,7 +190,7 @@ Using Python only
 Deploying to `Heroku <https://heroku.com/>`__
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-|Deploy|
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 Register on Heroku, press the button above and
 configure variables for deploying.
