@@ -25,6 +25,7 @@ _Send or forward_ a text message containing links and I will:
 [🧕 DEVELOPER](https://t.me/Iggie) | [👤 SUPPORT BOT](https://t.me/FlixHelpBot)
 
 💵 Support development:
+
 [PayPal](http://paypal.me/premiumbarn) | [Ko-fi](https://ko-fi.com/gpchelkin) | [Tinkoff](https://www.tinkoff.ru/sl/Acd7Jamf4YM) | [Yandex.Money](http://money.yandex.ru/to/41001421333857/200)
 
 👩🏻‍🎨 Logo By `@google` | [🖼️ GOOGLE](https://google.com)
