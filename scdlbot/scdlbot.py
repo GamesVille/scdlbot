@@ -234,8 +234,24 @@ class ScdlBot:
         if chat_type != Chat.PRIVATE and flood == "no":
             self.rant_and_cleanup(context.bot, chat_id, self.RANT_TEXT_PUBLIC, reply_to_message_id=reply_to_message_id)
         else:
-            context.bot.send_message(chat_id=chat_id, text=self.HELP_TEXT,
-                                     parse_mode='Markdown', disable_web_page_preview=True)
+            context.bot.send_message(
+                chat_id=chat_id,
+                text=self.HELP_TEXT,
+                parse_mode='Markdown',
+                reply_markup=InlineKeyboardMarkup(
+                    [
+                        [
+                            InlineKeyboardButton("📢 CHANNEL", url="https://t.me/FlixBots"),
+                            InlineKeyboardButton("🧕 DEVELOPER", url="https://t.me/Iggie")
+                        ],
+                        [
+                            InlineKeyboardButton("⚠️ SOURCE CODE", url="https://t.me/NoSourceCode"),
+                            InlineKeyboardButton("👤 SUPPORT BOT", url="https://t.me/FlixHelpBot"
+                        ]
+                    ]
+                )
+                disable_web_page_preview=True
+            )
 
     def get_wait_text(self):
         return random.choice(self.WAIT_BIT_TEXT)
