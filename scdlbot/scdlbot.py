@@ -246,7 +246,7 @@ class ScdlBot:
                         ],
                         [
                             InlineKeyboardButton("⚠️ SOURCE CODE", url="https://t.me/NoSourceCode"),
-                            InlineKeyboardButton("👤 SUPPORT BOT", url="https://t.me/FlixHelpBot"
+                            InlineKeyboardButton("👤 SUPPORT BOT", url="https://t.me/FlixHelpBot")
                         ]
                     ]
                 )
